@@ -1,1 +1,1 @@
-window.ßreak = true;
+window.ßreak = false;
